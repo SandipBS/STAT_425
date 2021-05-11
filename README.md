@@ -16,3 +16,4 @@ The course STAT 425 Covers below topics.
 - `README.md`: The file that you are reading that describes the course content and files.
 - `Homework pdf and jupyter notebooks`: Homework solutions with application of concepts learned in the course.
 - `Final Project`: Final Project Report titled "COVID-19 Healthy Diet and Recovery Rate"
+- `Food_Supply_kcal_Data.csv`: Input data for final project.
