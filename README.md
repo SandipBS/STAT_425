@@ -1,4 +1,4 @@
-# Applied-Regression-and-Design-STAT-425
+# Applied-Regression-and-Design
 This repository contains the files created during coursework in STAT 425 at the University of Illinois at Urbana-Champaign.
 
 ## Course Content
